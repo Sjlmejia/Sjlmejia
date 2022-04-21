@@ -26,6 +26,11 @@ I love learning, 📫  you can conncet with me here:
 
 #### Currently rocking out  to  fix bugs🎧️
 [![Spotify](https://skywalker-utilities.vercel.app/api/spotify?background_color=0f0f0f)](https://open.spotify.com/track/7FriPHzt3ALYFQhJdca1UL?si=701c8a30bec94086)
+
+### My GitHub Stats 🚀
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sjlmejia&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 <!--
 **Sjlmejia/Sjlmejia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
