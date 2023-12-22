@@ -4,9 +4,9 @@ I love learning, 📫  you can conncet with me here:
 
 [![Twitter Badge](https://img.shields.io/badge/-jorge-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Sjorge23/)](https://twitter.com/Sjorge23)
 [![Facebook Badge](https://img.shields.io/badge/-jorge-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/jorge.mejiamichay/)](https://www.facebook.com/jorge.mejiamichay/)
-[![Linkedin Badge](https://img.shields.io/badge/-jorge-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-mej%C3%ADa-b39824103/)](https://www.linkedin.com/in/jorge-mej%C3%ADa-b39824103/)
+[![Linkedin Badge](https://img.shields.io/badge/-jorge-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-mej%C3%ADa-b39824103/)]([https://www.linkedin.com/in/jorge-mej%C3%ADa-b39824103/](https://www.linkedin.com/in/jorge-mejia-michay/)
 
-- 🔭 I’m currently working on [ioet](https://www.ioet.com/).
+- 🔭 I’m a Freelance.
 - 💬 I'm frontend developer since 7 years of professional experience. 
 
 - 🌱 I love learn new technologies.
