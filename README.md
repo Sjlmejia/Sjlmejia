@@ -9,7 +9,7 @@ I love learning, 📫  you can conncet with me here:
 - 🔭 I’m currently working on [ioet](https://www.ioet.com/).
 - 💬 I'm frontend developer since 7 years of professional experience. 
 
-- 🌱 I currently learning deno.
+- 🌱 I love learn new technologies.
 
 - 👯 I'm looking to collaborate to on open source. 
 
