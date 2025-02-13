@@ -7,7 +7,7 @@ I love learning, 📫  you can conncet with me here:
 [![Linkedin Badge](https://img.shields.io/badge/-jorge-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-mejia-michay/)](https://www.linkedin.com/in/jorge-mejia-michay/)
 
 - 🔭 I’m a Freelance.
-- 💬 I'm frontend developer since 7 years of professional experience. 
+- 💬 I'm frontend developer since 10 years of professional experience. 
 
 - 🌱 I love learn new technologies.
 
